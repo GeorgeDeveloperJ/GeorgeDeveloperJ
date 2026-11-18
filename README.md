@@ -1,27 +1,25 @@
-<h1 data-importer="text" align="center">Welcome. Building secure, efficient, and scalable solutions.</h1>
+<img src="assets/masthead.svg" width="100%" alt="George Santana">
+
+I build web apps with TypeScript and run them on AWS.
+
+## Contribution arcade
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GeorgeDeveloperJ/GeorgeDeveloperJ/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GeorgeDeveloperJ/GeorgeDeveloperJ/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img width="100%" alt="Pac-Man moving through George’s GitHub contribution graph" src="https://raw.githubusercontent.com/GeorgeDeveloperJ/GeorgeDeveloperJ/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
 ## Toolbox
 
-| Area | Tools |
-| --- | --- |
-| Frontend | JavaScript · TypeScript · React · Next.js · Tailwind CSS |
-| Backend | Node.js · NestJS · PostgreSQL |
-| Cloud & tools | AWS · Docker · Bash |
+**Frontend**<br>
+<img src="assets/tools/javascript.svg" width="24" height="24" align="absmiddle" alt="">&nbsp;JavaScript &ensp; <img src="assets/tools/typescript.svg" width="24" height="24" align="absmiddle" alt="">&nbsp;TypeScript &ensp; <img src="assets/tools/react.svg" width="24" height="24" align="absmiddle" alt="">&nbsp;React &ensp; <picture><source media="(prefers-color-scheme: dark)" srcset="assets/tools/nextjs-dark.svg"><img src="assets/tools/nextjs.svg" width="24" height="24" align="absmiddle" alt=""></picture>&nbsp;Next.js &ensp; <img src="assets/tools/tailwindcss.svg" width="24" height="24" align="absmiddle" alt="">&nbsp;Tailwind&nbsp;CSS
 
-<div data-importer="socials" align="center">
-  <a href="https://www.linkedin.com/in/georgedeveloperj/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:georgeasantanar@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-</div>
+**Backend**<br>
+<img src="assets/tools/nodejs.svg" width="24" height="24" align="absmiddle" alt="">&nbsp;Node.js &ensp; <img src="assets/tools/nestjs.svg" width="24" height="24" align="absmiddle" alt="">&nbsp;NestJS &ensp; <img src="assets/tools/postgresql.svg" width="24" height="24" align="absmiddle" alt="">&nbsp;PostgreSQL
 
-Discord: `george_dnf_dev`
-
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=GeorgeDeveloperJ&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+**Cloud & tools**<br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/tools/amazonwebservices-dark.svg"><img src="assets/tools/amazonwebservices.svg" width="24" height="24" align="absmiddle" alt=""></picture>&nbsp;AWS &ensp; <img src="assets/tools/docker.svg" width="24" height="24" align="absmiddle" alt="">&nbsp;Docker &ensp; <picture><source media="(prefers-color-scheme: dark)" srcset="assets/tools/bash-dark.svg"><img src="assets/tools/bash.svg" width="24" height="24" align="absmiddle" alt=""></picture>&nbsp;Bash
 
 ## Recent activity
 
@@ -29,10 +27,6 @@ Discord: `george_dnf_dev`
 _No recent public pushes, pull requests, or releases._
 <!-- activity:end -->
 
-## Contribution arcade
+---
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GeorgeDeveloperJ/GeorgeDeveloperJ/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GeorgeDeveloperJ/GeorgeDeveloperJ/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GeorgeDeveloperJ/GeorgeDeveloperJ/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
+[LinkedIn](https://www.linkedin.com/in/georgedeveloperj/) · [Email](mailto:georgeasantanar@gmail.com) · Discord `george_dnf_dev`
