@@ -1,4 +1,4 @@
-<img src="assets/masthead.svg" width="100%" alt="George Santana (@GeorgeDeveloperJ) — Software engineering. Web applications with TypeScript and AWS.">
+<img src="https://raw.githubusercontent.com/GeorgeDeveloperJ/GeorgeDeveloperJ/55e4e04138f9b72fc5b9cb661f7a98c0f853669c/assets/masthead.svg" width="100%" alt="George Santana (@GeorgeDeveloperJ) — Software engineering. Web applications with TypeScript and AWS.">
 
 ### Working stack
 
