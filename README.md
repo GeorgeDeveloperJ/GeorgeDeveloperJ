@@ -26,7 +26,7 @@ Discord: `george_dnf_dev`
 ## Recent activity
 
 <!-- activity:start -->
-_Activity will appear after the first refresh._
+_No recent public pushes, pull requests, or releases._
 <!-- activity:end -->
 
 ## Contribution arcade
