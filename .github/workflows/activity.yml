@@ -1,6 +1,12 @@
 name: Refresh profile activity
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - README.md
+      - .github/scripts/update_activity.py
+      - .github/workflows/activity.yml
   schedule:
     - cron: '0 12 * * *'
   workflow_dispatch:

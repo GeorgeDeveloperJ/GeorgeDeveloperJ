@@ -2,14 +2,19 @@
 
 ### Working stack
 
-**Interface** &ensp; JavaScript · TypeScript · React · Next.js · Tailwind CSS<br>
-**Server & data** &ensp; Node.js · NestJS · PostgreSQL<br>
-**Infrastructure** &ensp; AWS · Docker · Bash
+**Interface**<br>
+<img src="assets/tools/javascript.svg" width="24" height="24" align="absmiddle" alt="">&nbsp;JavaScript &ensp; <img src="assets/tools/typescript.svg" width="24" height="24" align="absmiddle" alt="">&nbsp;TypeScript &ensp; <img src="assets/tools/react.svg" width="24" height="24" align="absmiddle" alt="">&nbsp;React &ensp; <picture><source media="(prefers-color-scheme: dark)" srcset="assets/tools/nextjs-dark.svg"><img src="assets/tools/nextjs.svg" width="24" height="24" align="absmiddle" alt=""></picture>&nbsp;Next.js &ensp; <img src="assets/tools/tailwindcss.svg" width="24" height="24" align="absmiddle" alt="">&nbsp;Tailwind&nbsp;CSS
+
+**Server & data**<br>
+<img src="assets/tools/nodejs.svg" width="24" height="24" align="absmiddle" alt="">&nbsp;Node.js &ensp; <img src="assets/tools/nestjs.svg" width="24" height="24" align="absmiddle" alt="">&nbsp;NestJS &ensp; <img src="assets/tools/postgresql.svg" width="24" height="24" align="absmiddle" alt="">&nbsp;PostgreSQL
+
+**Infrastructure**<br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/tools/amazonwebservices-dark.svg"><img src="assets/tools/amazonwebservices.svg" width="24" height="24" align="absmiddle" alt=""></picture>&nbsp;AWS &ensp; <img src="assets/tools/docker.svg" width="24" height="24" align="absmiddle" alt="">&nbsp;Docker &ensp; <picture><source media="(prefers-color-scheme: dark)" srcset="assets/tools/bash-dark.svg"><img src="assets/tools/bash.svg" width="24" height="24" align="absmiddle" alt=""></picture>&nbsp;Bash
 
 ### Recent work
 
 <!-- activity:start -->
-_No recent public pushes, pull requests, or releases._
+- 2026-11-18 · [Latest profile edit](https://github.com/GeorgeDeveloperJ/GeorgeDeveloperJ/commit/b4bff06aae6751d4111295aa0254e2c55d908202)
 <!-- activity:end -->
 
 ---
